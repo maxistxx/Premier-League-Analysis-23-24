@@ -1,4 +1,4 @@
-# AW_Assignment (old Read Me - new versiom in folder)
+# AW_Assignment (old Read Me - new version in folder)
 Dies hier ist mein Repository für das Fach "Analysewerkzeuge". Hier wird mein Assignment hochgeladen
 
 Wie wird dieses Assignment aussehen?
